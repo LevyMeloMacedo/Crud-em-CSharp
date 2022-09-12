@@ -1,0 +1,62 @@
+C:\Users\Controlsys\source\repos\Solucao02\Win02\bin\Debug\Banco\Banco.sdf
+C:\Users\Controlsys\source\repos\Solucao02\Win02\bin\Debug\Win02.exe.config
+C:\Users\Controlsys\source\repos\Solucao02\Win02\bin\Debug\Win02.exe
+C:\Users\Controlsys\source\repos\Solucao02\Win02\bin\Debug\Win02.pdb
+C:\Users\Controlsys\source\repos\Solucao02\Win02\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Controlsys\source\repos\Solucao02\Win02\obj\Debug\Win02.csprojAssemblyReference.cache
+C:\Users\Controlsys\source\repos\Solucao02\Win02\obj\Debug\Win02.CadastroFuncionario.resources
+C:\Users\Controlsys\source\repos\Solucao02\Win02\obj\Debug\Win02.TelaPrincipal.resources
+C:\Users\Controlsys\source\repos\Solucao02\Win02\obj\Debug\Win02.Properties.Resources.resources
+C:\Users\Controlsys\source\repos\Solucao02\Win02\obj\Debug\Win02.csproj.GenerateResource.cache
+C:\Users\Controlsys\source\repos\Solucao02\Win02\obj\Debug\Win02.csproj.CoreCompileInputs.cache
+C:\Users\Controlsys\source\repos\Solucao02\Win02\obj\Debug\Win02.csproj.CopyComplete
+C:\Users\Controlsys\source\repos\Solucao02\Win02\obj\Debug\Win02.exe
+C:\Users\Controlsys\source\repos\Solucao02\Win02\obj\Debug\Win02.pdb
+C:\Users\levym\OneDrive\Área de Trabalho\aaaaa\Crud-em-CSharp\Win02\bin\Debug\Banco\Banco.sdf
+C:\Users\levym\OneDrive\Área de Trabalho\aaaaa\Crud-em-CSharp\Win02\bin\Debug\Win02.exe.config
+C:\Users\levym\OneDrive\Área de Trabalho\aaaaa\Crud-em-CSharp\Win02\bin\Debug\Win02.exe
+C:\Users\levym\OneDrive\Área de Trabalho\aaaaa\Crud-em-CSharp\Win02\bin\Debug\Win02.pdb
+C:\Users\levym\OneDrive\Área de Trabalho\aaaaa\Crud-em-CSharp\Win02\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\levym\OneDrive\Área de Trabalho\aaaaa\Crud-em-CSharp\Win02\obj\Debug\Win02.csprojAssemblyReference.cache
+C:\Users\levym\OneDrive\Área de Trabalho\aaaaa\Crud-em-CSharp\Win02\obj\Debug\Win02.CadastroFuncionario.resources
+C:\Users\levym\OneDrive\Área de Trabalho\aaaaa\Crud-em-CSharp\Win02\obj\Debug\Win02.TelaPrincipal.resources
+C:\Users\levym\OneDrive\Área de Trabalho\aaaaa\Crud-em-CSharp\Win02\obj\Debug\Win02.Properties.Resources.resources
+C:\Users\levym\OneDrive\Área de Trabalho\aaaaa\Crud-em-CSharp\Win02\obj\Debug\Win02.csproj.GenerateResource.cache
+C:\Users\levym\OneDrive\Área de Trabalho\aaaaa\Crud-em-CSharp\Win02\obj\Debug\Win02.csproj.CoreCompileInputs.cache
+C:\Users\levym\OneDrive\Área de Trabalho\aaaaa\Crud-em-CSharp\Win02\obj\Debug\Win02.csproj.CopyComplete
+C:\Users\levym\OneDrive\Área de Trabalho\aaaaa\Crud-em-CSharp\Win02\obj\Debug\Win02.exe
+C:\Users\levym\OneDrive\Área de Trabalho\aaaaa\Crud-em-CSharp\Win02\obj\Debug\Win02.pdb
+C:\Users\Controlsys\Desktop\Crud-em-CSharp\Win02\bin\Debug\Banco\Banco.sdf
+C:\Users\Controlsys\Desktop\Crud-em-CSharp\Win02\bin\Debug\Win02.exe.config
+C:\Users\Controlsys\Desktop\Crud-em-CSharp\Win02\bin\Debug\Win02.exe
+C:\Users\Controlsys\Desktop\Crud-em-CSharp\Win02\bin\Debug\Win02.pdb
+C:\Users\Controlsys\Desktop\Crud-em-CSharp\Win02\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Controlsys\Desktop\Crud-em-CSharp\Win02\obj\Debug\Win02.csproj.AssemblyReference.cache
+C:\Users\Controlsys\Desktop\Crud-em-CSharp\Win02\obj\Debug\Win02.csproj.SuggestedBindingRedirects.cache
+C:\Users\Controlsys\Desktop\Crud-em-CSharp\Win02\obj\Debug\Win02.CadastroFuncionario.resources
+C:\Users\Controlsys\Desktop\Crud-em-CSharp\Win02\obj\Debug\Win02.TelaPrincipal.resources
+C:\Users\Controlsys\Desktop\Crud-em-CSharp\Win02\obj\Debug\Win02.Properties.Resources.resources
+C:\Users\Controlsys\Desktop\Crud-em-CSharp\Win02\obj\Debug\Win02.csproj.GenerateResource.cache
+C:\Users\Controlsys\Desktop\Crud-em-CSharp\Win02\obj\Debug\Win02.csproj.CoreCompileInputs.cache
+C:\Users\Controlsys\Desktop\Crud-em-CSharp\Win02\obj\Debug\Win02.csproj.CopyComplete
+C:\Users\Controlsys\Desktop\Crud-em-CSharp\Win02\obj\Debug\Win02.exe
+C:\Users\Controlsys\Desktop\Crud-em-CSharp\Win02\obj\Debug\Win02.pdb
+\\server\Users\Public\Crud-em-CSharp\Win02\bin\Debug\Banco\Banco.sdf
+\\server\Users\Public\Crud-em-CSharp\Win02\bin\Debug\Win02.exe.config
+\\server\Users\Public\Crud-em-CSharp\Win02\bin\Debug\Win02.exe
+\\server\Users\Public\Crud-em-CSharp\Win02\bin\Debug\Win02.pdb
+\\server\Users\Public\Crud-em-CSharp\Win02\bin\Debug\System.Data.SqlServerCe.dll
+\\server\Users\Public\Crud-em-CSharp\Win02\obj\Debug\Win02.csproj.AssemblyReference.cache
+\\server\Users\Public\Crud-em-CSharp\Win02\obj\Debug\Win02.csproj.SuggestedBindingRedirects.cache
+\\server\Users\Public\Crud-em-CSharp\Win02\obj\Debug\Win02.CadastroFuncionario.resources
+\\server\Users\Public\Crud-em-CSharp\Win02\obj\Debug\Win02.TelaPrincipal.resources
+\\server\Users\Public\Crud-em-CSharp\Win02\obj\Debug\Win02.Properties.Resources.resources
+\\server\Users\Public\Crud-em-CSharp\Win02\obj\Debug\Win02.csproj.GenerateResource.cache
+\\server\Users\Public\Crud-em-CSharp\Win02\obj\Debug\Win02.csproj.CoreCompileInputs.cache
+\\server\Users\Public\Crud-em-CSharp\Win02\obj\Debug\Win02.csproj.CopyComplete
+\\server\Users\Public\Crud-em-CSharp\Win02\obj\Debug\Win02.exe
+\\server\Users\Public\Crud-em-CSharp\Win02\obj\Debug\Win02.pdb
+C:\Users\Controlsys\Desktop\Crud-em-CSharp\Win02\bin\Debug\Win02.exe.manifest
+C:\Users\Controlsys\Desktop\Crud-em-CSharp\Win02\bin\Debug\Win02.application
+C:\Users\Controlsys\Desktop\Crud-em-CSharp\Win02\obj\Debug\Win02.exe.manifest
+C:\Users\Controlsys\Desktop\Crud-em-CSharp\Win02\obj\Debug\Win02.application
